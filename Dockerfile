@@ -1,4 +1,4 @@
-FROM ubuntu:18.10
+FROM ubuntu:19.10
 
 ENV UBUNTU_APT_SITE ftp.yzu.edu.tw
 ENV DEBIAN_FRONTEND=noninteractive
